@@ -1,6 +1,8 @@
 # gabriel6988.github.io
 Projeto do Eclipse.
 
+O trabalho pode ser encontrado na pasta gabriel6988github.
+
 Matérial utilizado para realizar o projeto:
 
 https://www.youtube.com/watch?v=JuS4wI9VoxQ&list=LL&index=1&t=298s&ab_channel=MarceloOliveira
