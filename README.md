@@ -1,7 +1,5 @@
 # gabriel6988githubio
-Projeto do Eclipse.
-
-O trabalho pode ser encontrado na pasta gabriel6988github.
+Projetos do Eclipse.
 
 Matérial utilizado para realizar o projeto:
 
@@ -13,9 +11,4 @@ Exercício 1:
 gabriel6988github
 
 Exercício 2:
-
-DAO.java
-
-Principal.java
-
-Usuario.java
+gabriel1
