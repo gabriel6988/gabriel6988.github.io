@@ -12,3 +12,5 @@ gabriel6988github
 
 Exercício 2:
 gabriel1
+Exercício 3: Integração Spark: 
+Exercício 3
