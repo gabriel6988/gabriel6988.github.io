@@ -18,4 +18,5 @@ Integração Spark:
 Exercício 3
 
 Exercício 4:
+Detectar Faces
 
