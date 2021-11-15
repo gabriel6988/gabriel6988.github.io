@@ -16,3 +16,6 @@ gabriel1
 Exercício 3: 
 Integração Spark: 
 Exercício 3
+
+Exercício 4:
+
