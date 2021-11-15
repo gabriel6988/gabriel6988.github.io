@@ -18,5 +18,5 @@ Integração Spark:
 Exercício 3
 
 Exercício 4:
-Detectar Faces e Program.cs e Detectar_Face_Em_Java.java
+Detectar Faces, Program.cs e Detectar_Face_Em_Java.java
 
